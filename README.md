@@ -26,3 +26,5 @@ Things you may want to cover:
 Mashup of https://github.com/nathanvda/cocoon
 and
 https://github.com/nathanvda/cocoon_simple_form_demo
+and
+https://github.com/nathanvda/cocoon/wiki/ERB-examples
