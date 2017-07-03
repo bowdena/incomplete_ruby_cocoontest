@@ -15,6 +15,9 @@ class ProjectsController < ApplicationController
   # GET /projects/new
   def new
     @project = Project.new
+
+    # needed to add the foloowing
+    
   end
 
   # GET /projects/1/edit
