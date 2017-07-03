@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Mashup of https://github.com/nathanvda/cocoon
+and
+https://github.com/nathanvda/cocoon_simple_form_demo
