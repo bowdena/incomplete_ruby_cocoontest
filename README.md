@@ -28,3 +28,5 @@ and
 https://github.com/nathanvda/cocoon_simple_form_demo
 and
 https://github.com/nathanvda/cocoon/wiki/ERB-examples
+
+Performed a git push -f to force changes up to the environment.
